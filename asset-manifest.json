@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/fcc-magazine/static/css/main.e6c13ad2.css",
-    "main.js": "/fcc-magazine/static/js/main.157cfc0a.js",
-    "index.html": "/fcc-magazine/index.html",
-    "main.e6c13ad2.css.map": "/fcc-magazine/static/css/main.e6c13ad2.css.map",
-    "main.157cfc0a.js.map": "/fcc-magazine/static/js/main.157cfc0a.js.map"
+    "main.css": "/FreeCodeCamp-magazine/static/css/main.e6c13ad2.css",
+    "main.js": "/FreeCodeCamp-magazine/static/js/main.157cfc0a.js",
+    "index.html": "/FreeCodeCamp-magazine/index.html",
+    "main.e6c13ad2.css.map": "/FreeCodeCamp-magazine/static/css/main.e6c13ad2.css.map",
+    "main.157cfc0a.js.map": "/FreeCodeCamp-magazine/static/js/main.157cfc0a.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
